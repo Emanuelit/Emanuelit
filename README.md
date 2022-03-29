@@ -15,6 +15,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="30" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="30" align="center"/>
 </div>
 
 
