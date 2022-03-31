@@ -1,8 +1,36 @@
-### Hi there 👋
 
+
+<div align="center">
+  Olá, eu sou o Emanuel!
+<br>
+
+</h3>
+
+```
+Estudante de Análise e Desenvolvimento de Sistemas pela FAM - Campus Paulista
+Atualmente tenho me dedicado a me tornar um Desenvolvedor Fullstack.
+```
+## Tecnologias que estou estudando atualmente 💻
+
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Java
+  - SpringBoot
+  - MySQL
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Sou um Desenvolvedor Java Jr | React
+
+- Estou cursando Análise e Desenvolvimento de Sistemas. 
+- Aluno na Generation Brasil. 
+- Faço parte do projeto Oracle Next Education. 
+- Vamos nos conectar no LinkedIn?
 <a href="https://www.linkedin.com/in/emanuel-avelino-418873227/">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   &nbsp;
-<div align="center">
+
   <a href="https://github.com/Emanuelit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emanuelit&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuelit&layout=compact&langs_count=7&theme=swift"/>
